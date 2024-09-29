@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Saumya Sehgal</h1>
+<h1 align="center">Hi 👋, I'm Saumya Sehgal Btech computer science and engineering 3 rd year student majoring in DevSecOps </h1>
 <h3 align="center">A passionate coder</h3>
 <img align="right" alt="coding"width="400"src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyasehgal&label=Profile%20views&color=0e75b6&style=flat" alt="saumyasehgal" /> </p>
 
-- 🌱 I’m currently learning **Advanced JAVA**
+- 🌱 I’m currently learning **DSA In C++ and also web development technologies**
 
 - 👯 I’m looking to collaborate on **various web development projects**
 
