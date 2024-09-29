@@ -1,8 +1,21 @@
-<h1 align="center">Hi 👋, I'm Saumya Sehgal Btech computer science and engineering 3 rd year student majoring in DevSecOps </h1>
-<h3 align="center">A passionate coder</h3>
-<img align="right" alt="coding"width="400"src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
+ # Hi 👋, I'm Saumya Sehgal 
+ 
+## About Me
+I am a 3rd-year BTech Computer Science and Engineering student majoring in DevSecOps.  
+I'm a passionate coder with a strong interest in exploring and mastering new technologies. My journey in the world of programming has been driven by curiosity, creativity, and a desire to build solutions that make a difference.
+## Skills & Expertise
+- **Programming Languages:** C,C++ Python, HTML, CSS, JavaScript
+- **Current Focus on:** Data Structures and Algorithms (DSA) in C++, Web Development
+- **Web Development:** Frontend & Backend, Responsive Design, API Integration
+- **Tools & Technologies:** Git, GitHub, VS Code,Figma,Linux,SQL, Node.js
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyasehgal&label=Profile%20views&color=0e75b6&style=flat" alt="saumyasehgal" /> </p>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=saumyasehgal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 
 - 🌱 I’m currently learning **DSA In C++ and also web development technologies**
 
