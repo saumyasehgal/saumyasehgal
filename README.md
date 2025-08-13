@@ -1,11 +1,11 @@
  # Hi 👋, I'm Saumya Sehgal 
  
 ## About Me
-I am a 3rd-year BTech Computer Science and Engineering student majoring in DevSecOps.  
+I am a final-year BTech Computer Science and Engineering student majoring in DevSecOps.  
 I'm a passionate coder with a strong interest in exploring and mastering new technologies. My journey in the world of programming has been driven by curiosity, creativity, and a desire to build solutions that make a difference.
 ## Skills & Expertise
 - **Programming Languages:** C,C++ Python, HTML, CSS, JavaScript
-- **Current Focus on:** Data Structures and Algorithms (DSA) in C++, Web Development
+- **Current Focus on:** Data Structures and Algorithms (DSA) in Java, Web Development
 - **Web Development:** Frontend & Backend, Responsive Design, API Integration
 - **Tools & Technologies:** Git, GitHub, VS Code,Figma,Linux,SQL, Node.js
 
